@@ -12,6 +12,7 @@ namespace ConsoleApp2
         {
             Console.Write("BIENVENIDOS AL CUIRSO DE C#");
             Console.Write("BIENVENIDOS AL CUIRSO DE C#");
+            Console.Write("BIENVENIDOS AL CUIRSO DE C#");
             Console.ReadKey();
         }
     }
