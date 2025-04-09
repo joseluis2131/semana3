@@ -11,6 +11,7 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             Console.Write("BIENVENIDOS AL CUIRSO DE C#");
+            Console.Write("BIENVENIDOS AL CUIRSO DE C#");
             Console.ReadKey();
         }
     }
